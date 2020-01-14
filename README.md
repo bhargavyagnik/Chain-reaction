@@ -3,4 +3,4 @@ This is a repository for a game known chain reaction written on the C language w
 
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3q7Mw3nhJuYuSseRKmnm-RKrq9a9lN902RZ-WDgXU-XOnD96lxw&s)
 
-_ _ reference only
+*reference only*
